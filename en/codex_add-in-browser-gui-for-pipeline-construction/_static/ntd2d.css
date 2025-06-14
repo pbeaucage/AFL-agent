@@ -79,12 +79,12 @@
 
 /* add menu styling for active variant */
 
-/* note: li.ntd2d_codex_add-trusted-publishing-workflow-for-pip-package doesn't reliably work with dotted names */
+/* note: li.ntd2d_codex_add-in-browser-gui-for-pipeline-construction doesn't reliably work with dotted names */
 
-li[class~="ntd2d_codex_add-trusted-publishing-workflow-for-pip-package"] {
+li[class~="ntd2d_codex_add-in-browser-gui-for-pipeline-construction"] {
   font-weight: bold;
 }
 
-li[class~="ntd2d_codex_add-trusted-publishing-workflow-for-pip-package"] a:hover {
+li[class~="ntd2d_codex_add-in-browser-gui-for-pipeline-construction"] a:hover {
   text-decoration: none;
 }
